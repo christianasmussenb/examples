@@ -1,0 +1,5 @@
+pinecone-client
+python-dotenv
+pymupdf
+transformers
+torch
